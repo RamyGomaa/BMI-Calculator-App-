@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+this is my approach of the bmi calculator app from "The Complete 2020 Flutter Development Bootcamp with Dart" course by Dr. Angela Yu
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
